@@ -1,242 +1,247 @@
 * {
-    width: 250px;
-    height: 250px;
-    float: left;
-    margin: 10px;
+
+
+box-sizing: border-box;
+
 
 }
-
+.cajaPrincipal>div{
+    display: inline-block;    
+}
+img {
+    width: 150px;    
+    height: 150px;    
+    margin: 10px;}
 .uno {
-    display: block;
-    filter: drop-shadow(10px 10px 20px (skyblue));
+    filter: drop-shadow(10px 10px 20px rgb(23, 177, 238));
 }
 
 .dos {
-
-    filter: drop-shadow(10px 10px 20px (rgb(104, 29, 104 )));
+    
+    filter: drop-shadow(10px 10px 20px rgb(104, 29, 104 ));
 }
 
 .tres {
 
-    filter: drop-shadow(10px 10px 20px (black));
+    filter: drop-shadow(10px 10px 20px black);
 }
 .cuatro {
 
-    filter: drop-shadow(10px 10px 20px (rgb(107, 107, 107) ));
+    filter: drop-shadow(10px 10px 20px rgb(107, 107, 107 ));
 }
 .cinco {
 
-    filter: drop-shadow(10px 10px 20px (rgb(47, 194, 47))) ;
+    filter: drop-shadow(10px 10px 20px rgb(47, 194, 47)) ;
 }
 .seis {
 
-    filter: drop-shadow(10px 10px 20px (rgb(15, 15, 143))) ;
+    filter: drop-shadow(10px 10px 20px rgb(15, 15, 143)) ;
 }
 .siete {
 
-    filter: drop-shadow(10px 10px 20px (rgb(209, 209, 0)));
+    filter: drop-shadow(10px 10px 20px rgb(209, 209, 0));
 }
 .ocho {
 
-    filter: drop-shadow(10px 10px 20px (rgb(6, 34, 6)))  ;
+    filter: drop-shadow(10px 10px 20px rgb(60, 175, 204))  ;
 }
 .nueve {
 
-    filter: drop-shadow(10px 10px 20px (rgb(114, 83, 114))) ;
+    filter: drop-shadow(10px 10px 20px rgb(255, 0, 0)) ;
 }
 .diez {
 
-    filter: drop-shadow(10px 10px 20px (rgb(4, 243, 243))) ;
+    filter: drop-shadow(10px 10px 20px rgb(9, 198, 255)) ;
 }
 .once {
 
-    filter: drop-shadow(10px 10px 20px (rgb(233, 162, 162)));
+    filter: drop-shadow(10px 10px 20px rgb(153, 0, 255));
 }
-.dose {
+.doce {
 
-    filter: drop-shadow(10px 10px 20px (rgb(40, 134, 40))) ;
+    filter: drop-shadow(10px 10px 20px rgb(40, 134, 40)) ;
 }
 .trece {
 
-    filter: drop-shadow(10px 10px 20px (rgb(216, 86, 26))) ;
+    filter: drop-shadow(10px 10px 20px rgb(208, 10, 248)) ;
 }
 .catorce {
 
-    filter: drop-shadow(10px 10px 20px (rgb(14, 175, 8)))  ;
+    filter: drop-shadow(10px 10px 20px rgb(14, 175, 8))  ;
 }
 .quince {
 
-    filter: drop-shadow(10px 10px 20px (rgb(182, 143, 182))) ;
+    filter: drop-shadow(10px 10px 20px rgb(255, 29, 29)) ;
 }
 .diesiseis {
 
-    filter: drop-shadow(10px 10px 20px (rgb(255, 146, 164))) ;
+    filter: drop-shadow(10px 10px 20px rgb(3, 142, 255)) ;
 }
 .diesisiete {
 
-    filter: drop-shadow(10px 10px 20px (rgb(255, 255, 154))) ;
+    filter: drop-shadow(10px 10px 20px rgb(161, 9, 248)) ;
 }
 .diesiocho {
 
-    filter: drop-shadow(10px 10px 20px (rgb(224, 123, 7)))  ;
+    filter: drop-shadow(10px 10px 20px rgb(255, 136, 0))  ;
 }
 .diesinueve {
 
-    filter: drop-shadow(10px 10px 20px ( rgb(73, 4, 73))) ;
+    filter: drop-shadow(10px 10px 20px  rgb(255, 230, 0)) ;
 }
 .veinte {
 
-    filter: drop-shadow(10px 10px 20px (rgb(53, 53, 129))) ;
+    filter: drop-shadow(10px 10px 20px rgb(0, 0, 255)) ;
 }
-.ventiuno {
+.veintiuno {
 
-    filter: drop-shadow(10px 10px 20px (rgb(175, 157, 175))) ;
+    filter: drop-shadow(10px 10px 20px rgb(89, 0, 255)) ;
 }
 .veintidos {
 
-    filter: drop-shadow(10px 10px 20px (rgb(5, 5, 61))) ;
+    filter: drop-shadow(10px 10px 20px rgb(2, 2, 114)) ;
 }
 .veintitres {
 
-    filter: drop-shadow(10px 10px 20px (rgb(250, 166, 10))) ;
+    filter: drop-shadow(10px 10px 20px rgb(98, 9, 121)) ;
 }
-.veinticuaro {
+.veinticuatro {
 
-    filter: drop-shadow(10px 10px 20px (rgba(255, 255, 255, 0.856))) ;
+    filter: drop-shadow(10px 10px 20px rgba(0, 174, 255, 0.856)) ;
 }
 .veinticinco {
 
-    filter: drop-shadow(10px 10px 20px (rgb(161, 161, 161)));
+    filter: drop-shadow(10px 10px 20px rgb(255, 123, 0));
 }
 .veintiseis {
 
-    filter: drop-shadow(10px 10px 20px (rgb(255, 115, 139)))  ;
+    filter: drop-shadow(10px 10px 20px rgb(255, 0, 43))  ;
 }
 .veintisiete {
 
-    filter: drop-shadow(10px 10px 20px (skyblue)) ;
+    filter: drop-shadow(10px 10px 20px rgb(0, 183, 255)) ;
 }
 .veintiocho {
 
-    filter: drop-shadow(10px 10px 20px (rgb(124, 37, 37))) ;
+    filter: drop-shadow(10px 10px 20px rgb(255, 100, 100)) ;
 }
 .veintinueve {
 
-    filter: drop-shadow(10px 10px 20px (rgb(196, 196, 91)))  ;
+    filter: drop-shadow(10px 10px 20px rgb(53, 247, 253))  ;
 }
 .treinta {
 
-    filter: drop-shadow(10px 10px 20px (rgb(185, 102, 185))) ;
+    filter: drop-shadow(10px 10px 20px rgb(145, 51, 7)) ;
 }
 .treintayuno {
 
-    filter: drop-shadow(10px 10px 20px (skyblue)) ;
+    filter: drop-shadow(10px 10px 20px rgb(241, 245, 7)) ;
 }
 .treintaydos{
 
-    filter: drop-shadow(10px 10px 20px (rgb(255, 154, 171))) ;
+    filter: drop-shadow(10px 10px 20px rgb(167, 3, 98)) ;
 }
 .treintaytres {
 
-    filter: drop-shadow(10px 10px 20px (rgb(255, 176, 255))) ;
+    filter: drop-shadow(10px 10px 20px rgb(0, 228, 228)) ;
 }
 .treintaycuatro {
 
-    filter: drop-shadow(10px 10px 20px (rgb(224, 167, 224))) ;
+    filter: drop-shadow(10px 10px 20px rgb(153, 20, 194)) ;
 }
-.teintaycinco {
+.treintaycinco {
 
-    filter: drop-shadow(10px 10px 20px (rgb(250, 201, 201))) ;
+    filter: drop-shadow(10px 10px 20px rgb(156, 12, 144)) ;
 }
-.treintayesis {
+.treintayseis {
 
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+    filter: drop-shadow(10px 10px 20px rgb(255, 165, 76));
 }
 .treintaysiete {
 
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+    filter: drop-shadow(10px 10px 20px rgb(237, 37, 255))  ;
 }
 .treintayocho {
 
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+    filter: drop-shadow(10px 10px 20px rgb(228, 133, 25)) ;
 }
 .treintaynueve {
 
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+    filter: drop-shadow(10px 10px 20px rgb(84, 255, 17))  ;
 }
 .cuarenta {
 
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+    filter: drop-shadow(10px 10px 20px  rgb(255, 153, 0)) ;
 }
 .cuarentayuno {
 
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+    filter: drop-shadow(10px 10px 20px rgb(154, 3, 255))  ;
 }
 .cuarentaydos {
 
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+    filter: drop-shadow(10px 10px 20px rgb(182, 121, 42))  ;
 }
 .cuarentaytres {
 
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+    filter: drop-shadow(10px 10px 20px rgb(255, 0, 0))  ;
 }
 .cuarentaycuatro {
 
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+    filter: drop-shadow(10px 10px 20px rgb(38, 183, 240)) ;
 }
 .cuarentaycinco {
 
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+    filter: drop-shadow(10px 10px 20px rgb(0, 25, 253))  ;
 }
 .cuarentayseis {
 
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+    filter: drop-shadow(10px 10px 20px #000)  ;
 }
 .cuarentaysiete {
 
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+    filter: drop-shadow(10px 10px 20px rgb(0, 183, 255))  ;
 }
 .cuarentayocho {
 
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+    filter: drop-shadow(10px 10px 20px rgb(255, 251, 0)) ;
 }
 .cuarentaynueve {
 
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+    filter: drop-shadow(10px 10px 20px rgb(255, 124, 2))  ;
 }
 .cincuenta {
 
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+    filter: drop-shadow(10px 10px 20px rgb(88, 0, 252))  ;
 }
 .cincuentayuno {
 
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+    filter: drop-shadow(10px 10px 20px rgb(90, 36, 0))  ;
 }
 .cincuentaydos {
 
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+    filter: drop-shadow(10px 10px 20px rgb(252, 194, 4))  ;
 }
 .cincuentaytres {
 
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+    filter: drop-shadow(10px 10px 20px rgb(4, 42, 255)) ;
 }
 .cincuentaycuatro {
 
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+    filter: drop-shadow(10px 10px 20px rgb(64, 1, 238))   ;
 }
 .cincuentaycinco {
 
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+    filter: drop-shadow(10px 10px 20px rgb(0, 241, 121))  ;
 }
 .cincuentayseis {
 
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+    filter: drop-shadow(10px 10px 20px rgb(1, 179, 250))  ;
 }
 .cincuentaysiete {
 
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+    filter: drop-shadow(10px 10px 20px rgb(4, 180, 250) )  ;
 }
 .cincuentayocho {
 
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+    filter: drop-shadow(10px 10px 20px rgb(3, 41, 253))  ;
 }
