@@ -1,297 +1,242 @@
-*{
-    margin: 0;
-    padding: 0;
+* {
+    width: 250px;
+    height: 250px;
+    float: left;
+    margin: 10px;
+
 }
 
 .uno {
-    margin: 10;
-    display: inline-table;
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+    display: block;
+    filter: drop-shadow(10px 10px 20px (skyblue));
 }
 
 .dos {
-    margin: 10;
-    display: inline-table;
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+
+    filter: drop-shadow(10px 10px 20px (rgb(104, 29, 104 )));
 }
 
 .tres {
-    margin: 10;
-    display: inline-table;
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+
+    filter: drop-shadow(10px 10px 20px (black));
 }
 .cuatro {
-    margin: 10;
-    display: inline-table;
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+
+    filter: drop-shadow(10px 10px 20px (rgb(107, 107, 107) ));
 }
 .cinco {
-    margin: 10;
-    display: inline-table;
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+
+    filter: drop-shadow(10px 10px 20px (rgb(47, 194, 47))) ;
 }
 .seis {
-    margin: 10;
-    display: inline-table;
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+
+    filter: drop-shadow(10px 10px 20px (rgb(15, 15, 143))) ;
 }
 .siete {
-    margin: 10;
-    display: inline-table;
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+
+    filter: drop-shadow(10px 10px 20px (rgb(209, 209, 0)));
 }
 .ocho {
-    margin: 10;
-    display: inline-table;
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+
+    filter: drop-shadow(10px 10px 20px (rgb(6, 34, 6)))  ;
 }
 .nueve {
-    margin: 10;
-    display: inline-table;
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+
+    filter: drop-shadow(10px 10px 20px (rgb(114, 83, 114))) ;
 }
 .diez {
-    margin: 10;
-    display: inline-table;
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+
+    filter: drop-shadow(10px 10px 20px (rgb(4, 243, 243))) ;
 }
 .once {
-    margin: 10;
-    display: inline-table;
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+
+    filter: drop-shadow(10px 10px 20px (rgb(233, 162, 162)));
 }
 .dose {
-    margin: 10;
-    display: inline-table;
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+
+    filter: drop-shadow(10px 10px 20px (rgb(40, 134, 40))) ;
 }
 .trece {
-    margin: 10;
-    display: inline-table;
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+
+    filter: drop-shadow(10px 10px 20px (rgb(216, 86, 26))) ;
 }
 .catorce {
-    margin: 10;
-    display: inline-table;
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+
+    filter: drop-shadow(10px 10px 20px (rgb(14, 175, 8)))  ;
 }
 .quince {
-    margin: 10;
-    display: inline-table;
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+
+    filter: drop-shadow(10px 10px 20px (rgb(182, 143, 182))) ;
 }
 .diesiseis {
-    margin: 10;
-    display: inline-table;
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+
+    filter: drop-shadow(10px 10px 20px (rgb(255, 146, 164))) ;
 }
 .diesisiete {
-    margin: 10;
-    display: inline-table;
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+
+    filter: drop-shadow(10px 10px 20px (rgb(255, 255, 154))) ;
 }
 .diesiocho {
-    margin: 10;
-    display: inline-table;
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+
+    filter: drop-shadow(10px 10px 20px (rgb(224, 123, 7)))  ;
 }
 .diesinueve {
-    margin: 10;
-    display: inline-table;
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+
+    filter: drop-shadow(10px 10px 20px ( rgb(73, 4, 73))) ;
 }
 .veinte {
-    margin: 10;
-    display: inline-table;
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+
+    filter: drop-shadow(10px 10px 20px (rgb(53, 53, 129))) ;
 }
 .ventiuno {
-    margin: 10;
-    display: inline-table;
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+
+    filter: drop-shadow(10px 10px 20px (rgb(175, 157, 175))) ;
 }
 .veintidos {
-    margin: 10;
-    display: inline-table;
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+
+    filter: drop-shadow(10px 10px 20px (rgb(5, 5, 61))) ;
 }
 .veintitres {
-    margin: 10;
-    display: inline-table;
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+
+    filter: drop-shadow(10px 10px 20px (rgb(250, 166, 10))) ;
 }
 .veinticuaro {
-    margin: 10;
-    display: inline-table;
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+
+    filter: drop-shadow(10px 10px 20px (rgba(255, 255, 255, 0.856))) ;
 }
 .veinticinco {
-    margin: 10;
-    display: inline-table;
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+
+    filter: drop-shadow(10px 10px 20px (rgb(161, 161, 161)));
 }
 .veintiseis {
-    margin: 10;
-    display: inline-table;
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+
+    filter: drop-shadow(10px 10px 20px (rgb(255, 115, 139)))  ;
 }
 .veintisiete {
-    margin: 10;
-    display: inline-table;
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+
+    filter: drop-shadow(10px 10px 20px (skyblue)) ;
 }
 .veintiocho {
-    margin: 10;
-    display: inline-table;
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+
+    filter: drop-shadow(10px 10px 20px (rgb(124, 37, 37))) ;
 }
 .veintinueve {
-    margin: 10;
-    display: inline-table;
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+
+    filter: drop-shadow(10px 10px 20px (rgb(196, 196, 91)))  ;
 }
 .treinta {
-    margin: 10;
-    display: inline-table;
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+
+    filter: drop-shadow(10px 10px 20px (rgb(185, 102, 185))) ;
 }
 .treintayuno {
-    margin: 10;
-    display: inline-table;
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+
+    filter: drop-shadow(10px 10px 20px (skyblue)) ;
 }
 .treintaydos{
-    margin: 10;
-    display: inline-table;
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+
+    filter: drop-shadow(10px 10px 20px (rgb(255, 154, 171))) ;
 }
 .treintaytres {
-    margin: 10;
-    display: inline-table;
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+
+    filter: drop-shadow(10px 10px 20px (rgb(255, 176, 255))) ;
 }
 .treintaycuatro {
-    margin: 10;
-    display: inline-table;
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+
+    filter: drop-shadow(10px 10px 20px (rgb(224, 167, 224))) ;
 }
 .teintaycinco {
-    margin: 10;
-    display: inline-table;
-    filter: drop-shadow(10px 10px 20px)  skyblue;
+
+    filter: drop-shadow(10px 10px 20px (rgb(250, 201, 201))) ;
 }
 .treintayesis {
-    margin: 10;
-    display: inline-table;
+
     filter: drop-shadow(10px 10px 20px)  skyblue;
 }
 .treintaysiete {
-    margin: 10;
-    display: inline-table;
+
     filter: drop-shadow(10px 10px 20px)  skyblue;
 }
 .treintayocho {
-    margin: 10;
-    display: inline-table;
+
     filter: drop-shadow(10px 10px 20px)  skyblue;
 }
 .treintaynueve {
-    margin: 10;
-    display: inline-table;
+
     filter: drop-shadow(10px 10px 20px)  skyblue;
 }
 .cuarenta {
-    margin: 10;
-    display: inline-table;
+
     filter: drop-shadow(10px 10px 20px)  skyblue;
 }
 .cuarentayuno {
-    margin: 10;
-    display: inline-table;
+
     filter: drop-shadow(10px 10px 20px)  skyblue;
 }
 .cuarentaydos {
-    margin: 10;
-    display: inline-table;
+
     filter: drop-shadow(10px 10px 20px)  skyblue;
 }
 .cuarentaytres {
-    margin: 10;
-    display: inline-table;
+
     filter: drop-shadow(10px 10px 20px)  skyblue;
 }
 .cuarentaycuatro {
-    margin: 10;
-    display: inline-table;
+
     filter: drop-shadow(10px 10px 20px)  skyblue;
 }
 .cuarentaycinco {
-    margin: 10;
-    display: inline-table;
+
     filter: drop-shadow(10px 10px 20px)  skyblue;
 }
 .cuarentayseis {
-    margin: 10;
-    display: inline-table;
+
     filter: drop-shadow(10px 10px 20px)  skyblue;
 }
 .cuarentaysiete {
-    margin: 10;
-    display: inline-table;
+
     filter: drop-shadow(10px 10px 20px)  skyblue;
 }
 .cuarentayocho {
-    margin: 10;
-    display: inline-table;
+
     filter: drop-shadow(10px 10px 20px)  skyblue;
 }
 .cuarentaynueve {
-    margin: 10;
-    display: inline-table;
+
     filter: drop-shadow(10px 10px 20px)  skyblue;
 }
 .cincuenta {
-    margin: 10;
-    display: inline-table;
+
     filter: drop-shadow(10px 10px 20px)  skyblue;
 }
 .cincuentayuno {
-    margin: 10;
-    display: inline-table;
+
     filter: drop-shadow(10px 10px 20px)  skyblue;
 }
 .cincuentaydos {
-    margin: 10;
-    display: inline-table;
+
     filter: drop-shadow(10px 10px 20px)  skyblue;
 }
 .cincuentaytres {
-    margin: 10;
-    display: inline-table;
+
     filter: drop-shadow(10px 10px 20px)  skyblue;
 }
 .cincuentaycuatro {
-    margin: 10;
-    display: inline-table;
+
     filter: drop-shadow(10px 10px 20px)  skyblue;
 }
 .cincuentaycinco {
-    margin: 10;
-    display: inline-table;
+
     filter: drop-shadow(10px 10px 20px)  skyblue;
 }
 .cincuentayseis {
-    margin: 10;
-    display: inline-table;
+
     filter: drop-shadow(10px 10px 20px)  skyblue;
 }
 .cincuentaysiete {
-    margin: 10;
-    display: inline-table;
+
     filter: drop-shadow(10px 10px 20px)  skyblue;
 }
 .cincuentayocho {
-    margin: 10;
-    display: inline-table;
+
     filter: drop-shadow(10px 10px 20px)  skyblue;
 }
